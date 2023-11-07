@@ -22,11 +22,13 @@ Los proyectos de frontend en este repositorio se crean utilizando React. Los rep
 
 ### Ticketing
 
-Para la gestión de tareas y seguimiento, utilizamos sistemas de ticketing en proyectos separados. Puedes encontrar los proyectos de ticketing en los siguientes repositorios:
+Para la gestión de tareas y seguimiento, utilizamos sistemas de ticketing en proyectos separados. Puedes encontrar los proyectos de ticketing en los siguientes enlaces:
 
-- `ticketing_project1`: Sistema de ticketing para el proyecto 1.
-- `ticketing_project2`: Sistema de ticketing para el proyecto 2.
-- ...
+- [Maat Prototype Ticketing](https://github.com/orgs/Maat-Together/projects/2/views/1): Sistema de ticketing para el proyecto de prototipo de Maat.
+- [Maat Backend Ticketing](https://github.com/orgs/Maat-Together/projects/3/views/2): Sistema de ticketing para el proyecto de backend de Maat.
+- [Maat Frontend Ticketing](https://github.com/orgs/Maat-Together/projects/4/views/2): Sistema de ticketing para el proyecto de frontend de Maat.
+
+Para consultar y trabajar en tareas específicas, visita los enlaces correspondientes a los sistemas de ticketing.
 
 ## Contribución
 
