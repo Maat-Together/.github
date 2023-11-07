@@ -1,4 +1,4 @@
-# Proyecto Maat
+# Maat
 
 Bienvenido al proyecto Maat. Este repositorio actúa como un punto central para gestionar los proyectos de backend, frontend y ticketing relacionados.
 
