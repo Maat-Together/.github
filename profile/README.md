@@ -1,6 +1,6 @@
-# Maat
+# Mast
 
-Bienvenido al proyecto Maat. Este repositorio actúa como un punto central para gestionar los proyectos de backend, frontend y ticketing relacionados.
+Bienvenido al proyecto Mast. Este repositorio actúa como un punto central para gestionar los proyectos de backend, frontend y ticketing relacionados.
 
 ## Estructura de Repositorios
 
